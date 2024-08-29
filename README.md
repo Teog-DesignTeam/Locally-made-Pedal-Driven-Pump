@@ -17,11 +17,24 @@ This repository is dedicated to the development of an open-source hardware bicyc
 - Provide a detailed description suitable for student project work (e.g., bachelor or master thesis).
 
 ## Existing concepts
-	Appropedia
- [https://www.appropedia.org/Water_pumps]
-Hydraulic ram pump: [https://www.appropedia.org/Hydraulic_ram_pumps]
-	
-## General:
- open-source CAD tool proposal 
-  [https://openscad.org/]
-  [https://cadquery.readthedocs.io/en/]
+- Appropedia
+	- [Chapter Water Pumps](https://www.appropedia.org/Water_pumps)
+	- [Hydraulic ram pump](https://www.appropedia.org/Hydraulic_ram_pumps)
+
+ # First Design Concept
+ We created our first design concept. 
+
+ ![](Pump%20(Bicycle%20Pump)%20.jpg)
+ 
+ You find in this repository following files:
+ - [CAD file](/Pump%20(Bicycle%20Pump)%20.step)
+ - [technical drawing](/Pump%20(Bicycle%20Pump)%20Drawing%20.pdf)
+
+ # License
+ Hardware design, CAD files, BOM, settings and other technical or design files are released under the following license:
+
+- CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-S](LICENSE_CERN_OHL_S_V2.txt)**
+
+Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
+
+- Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
